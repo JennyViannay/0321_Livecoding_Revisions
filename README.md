@@ -5,4 +5,4 @@
 - ```git clone git@github.com:JennyViannay/0321_Livecoding_Revisions.git ```
 - ```cd 0321_Livecoding_Revisions ```
 - ```php -S localhost:8000```
-- go to ['http://localhost:8000'](htt://localhost:8000)
+- go to ['http://localhost:8000'](http://localhost:8000)
